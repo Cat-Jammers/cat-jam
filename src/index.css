@@ -1,5 +1,10 @@
+@font-face {
+  font-family: 'FOT-YurukaStd';
+  src: url("https://cloud-kfx6znz9w-hack-club-bot.vercel.app/0fot-yuruka-std.ttf");
+}
+
 body {
-  font-family: Arial, sans-serif;
+  font-family: FOT-YurukaStd, Arial, sans-serif;
   text-align: center;
   background-color: #f4f4f4;
   padding: 50px;
